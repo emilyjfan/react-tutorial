@@ -12,6 +12,21 @@
     {
         "id": 1420070400001,
         "author": "Steve O’Shannessy",
-        "text": "React is *great*!"
+        "text": "React is *bad*!"
+    },
+    {
+        "id": 1456885723400,
+        "author": "hi",
+        "text": "there"
+    },
+    {
+        "id": 1456885730427,
+        "author": "Emily",
+        "text": "test"
+    },
+    {
+        "id": 1456885740636,
+        "author": "well",
+        "text": "then"
     }
 ]
